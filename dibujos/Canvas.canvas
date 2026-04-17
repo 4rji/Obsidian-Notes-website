@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"45bba2449da7440e","x":-400,"y":220,"width":250,"height":60,"color":"6","type":"text","text":""},
+		{"id":"28d1024e6a731e86","type":"text","text":"asdasd","x":-125,"y":-19,"width":250,"height":60,"color":"3"},
+		{"id":"0cfe315d0c4357b2","x":-525,"y":-520,"width":400,"height":400,"type":"file","file":"IR/incident_report.md"},
+		{"id":"72e0d3eacc799c11","x":20,"y":135,"width":400,"height":231,"type":"file","file":"arji energy.png"}
+	],
+	"edges":[
+		{"id":"ce0ae07eaced6fc8","fromNode":"0cfe315d0c4357b2","fromSide":"bottom","toNode":"28d1024e6a731e86","toSide":"bottom"},
+		{"id":"158d92d67400d83d","fromNode":"45bba2449da7440e","fromSide":"top","toNode":"0cfe315d0c4357b2","toSide":"bottom"},
+		{"id":"3b37fdd14a5e91eb","fromNode":"72e0d3eacc799c11","fromSide":"top","toNode":"0cfe315d0c4357b2","toSide":"right"}
+	]
+}
