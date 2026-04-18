@@ -6,12 +6,6 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Welcome</title>
-    <link>https://quartz.jzhao.xyz/Welcome</link>
-    <guid>https://quartz.jzhao.xyz/Welcome</guid>
-    <description><![CDATA[ Welcome A collection of my notes and resources. Everything is organized by topic. ]]></description>
-    <pubDate>Fri, 17 Apr 2026 22:16:10 GMT</pubDate>
-  </item><item>
     <title>Drawing 2026-04-17 07.53.19.excalidraw</title>
     <link>https://quartz.jzhao.xyz/dibujos/Drawing-2026-04-17-07.53.19.excalidraw</link>
     <guid>https://quartz.jzhao.xyz/dibujos/Drawing-2026-04-17-07.53.19.excalidraw</guid>
@@ -30,11 +24,35 @@
     <description><![CDATA[ Discover and install skills for AI agents. ]]></description>
     <pubDate>Fri, 17 Apr 2026 05:00:00 GMT</pubDate>
   </item><item>
+    <title>Anthropic Courses</title>
+    <link>https://quartz.jzhao.xyz/Obsidian-Notes/Clippings/Anthropic-Courses</link>
+    <guid>https://quartz.jzhao.xyz/Obsidian-Notes/Clippings/Anthropic-Courses</guid>
+    <description><![CDATA[ Learn to build with Claude through Anthropic's comprehensive courses and training programs. ]]></description>
+    <pubDate>Fri, 17 Apr 2026 05:00:00 GMT</pubDate>
+  </item><item>
+    <title>The Agent Skills Directory</title>
+    <link>https://quartz.jzhao.xyz/Obsidian-Notes/Clippings/The-Agent-Skills-Directory</link>
+    <guid>https://quartz.jzhao.xyz/Obsidian-Notes/Clippings/The-Agent-Skills-Directory</guid>
+    <description><![CDATA[ Discover and install skills for AI agents. ]]></description>
+    <pubDate>Fri, 17 Apr 2026 05:00:00 GMT</pubDate>
+  </item><item>
     <title>Antropic</title>
     <link>https://quartz.jzhao.xyz/AI-courses/Antropic</link>
     <guid>https://quartz.jzhao.xyz/AI-courses/Antropic</guid>
     <description><![CDATA[ AI fluency: framework &amp; foundations MCP both advance y and basic claude code in actions building with claude API (RAG) agent skill intro. ]]></description>
     <pubDate>Thu, 16 Apr 2026 05:21:10 GMT</pubDate>
+  </item><item>
+    <title>Antropic</title>
+    <link>https://quartz.jzhao.xyz/Obsidian-Notes/AI-courses/Antropic</link>
+    <guid>https://quartz.jzhao.xyz/Obsidian-Notes/AI-courses/Antropic</guid>
+    <description><![CDATA[ AI fluency: framework &amp; foundations MCP both advance y and basic claude code in actions building with claude API (RAG) agent skill intro. ]]></description>
+    <pubDate>Thu, 16 Apr 2026 05:21:10 GMT</pubDate>
+  </item><item>
+    <title>email resources websites</title>
+    <link>https://quartz.jzhao.xyz/Obsidian-Notes/email-tools/email-resources-websites</link>
+    <guid>https://quartz.jzhao.xyz/Obsidian-Notes/email-tools/email-resources-websites</guid>
+    <description><![CDATA[ pipl.com peekyou.com echosec.net centralops.net tools theHarvester emailharvester amass. ]]></description>
+    <pubDate>Thu, 16 Apr 2026 01:14:39 GMT</pubDate>
   </item><item>
     <title>email resources websites</title>
     <link>https://quartz.jzhao.xyz/email-tools/email-resources-websites</link>
@@ -47,18 +65,6 @@
     <guid>https://quartz.jzhao.xyz/IR/full_incident_report-1</guid>
     <description><![CDATA[ Incident Report – Domain Compromise, Credential Dumping, and Data Exfiltration Executive Summary An attacker gained initial access to the network via SSH using valid Administrator credentials obtained through brute force or password reuse. ]]></description>
     <pubDate>Thu, 02 Apr 2026 17:40:54 GMT</pubDate>
-  </item><item>
-    <title>incident_report</title>
-    <link>https://quartz.jzhao.xyz/IR/incident_report</link>
-    <guid>https://quartz.jzhao.xyz/IR/incident_report</guid>
-    <description><![CDATA[ Incident Report – Unauthorized Access and Data Exfiltration Summary An attacker gained unauthorized access to the network through brute force authentication and successfully logged in as the Administrator. ]]></description>
-    <pubDate>Thu, 02 Apr 2026 16:55:36 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Welcome A collection of my notes and resources. Everything is organized by topic. ]]></description>
-    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
   </item>
     </channel>
   </rss>
