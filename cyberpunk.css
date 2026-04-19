@@ -1,0 +1,78 @@
+/* Dark Cyberpunk Theme */
+
+:root {
+  --cp-primary: #0099cc;
+  --cp-secondary: #aa0055;
+  --cp-accent: #663399;
+  --cp-dark: #0a0e27;
+  --cp-text: #c0c0c0;
+}
+
+body {
+  background-color: var(--cp-dark) !important;
+  color: var(--cp-text) !important;
+  font-family: 'Courier New', monospace !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--cp-primary) !important;
+  font-family: 'Courier New', monospace !important;
+}
+
+p, span, div {
+  font-family: 'Courier New', monospace !important;
+}
+
+a {
+  color: var(--cp-secondary) !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: var(--cp-accent) !important;
+  text-decoration: underline !important;
+}
+
+code {
+  color: var(--cp-primary) !important;
+  background-color: rgba(0, 153, 204, 0.08) !important;
+  font-family: 'Courier New', monospace !important;
+}
+
+button {
+  background-color: var(--cp-secondary) !important;
+  color: var(--cp-dark) !important;
+  border: 1px solid var(--cp-secondary) !important;
+  font-family: 'Courier New', monospace !important;
+}
+
+button:hover {
+  background-color: var(--cp-accent) !important;
+  border-color: var(--cp-accent) !important;
+}
+
+input, .search-bar, .search-button {
+  background-color: rgba(10, 14, 39, 0.8) !important;
+  color: var(--cp-text) !important;
+  border: 1px solid var(--cp-primary) !important;
+  font-family: 'Courier New', monospace !important;
+}
+
+.explorer, .sidebar, .right, .graph, .search-layout, .title-button {
+  background-color: var(--cp-dark) !important;
+}
+
+.explorer button, .title-button, .explorer-toggle, .darkmode, .readermode {
+  background-color: transparent !important;
+  color: var(--cp-primary) !important;
+  border: none !important;
+}
+
+.darkmode svg, .readermode svg {
+  fill: var(--cp-primary) !important;
+  stroke: var(--cp-primary) !important;
+}
+
+[style*="background"], [style*="background-color"] {
+  background-color: var(--cp-dark) !important;
+}
