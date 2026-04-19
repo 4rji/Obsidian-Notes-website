@@ -41,6 +41,12 @@
     <guid>https://quartz.jzhao.xyz/IR/incident_report</guid>
     <description><![CDATA[ Incident Report – Unauthorized Access and Data Exfiltration Summary An attacker gained unauthorized access to the network through brute force authentication and successfully logged in as the Administrator. ]]></description>
     <pubDate>Thu, 02 Apr 2026 16:55:36 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Wed, 23 Aug 2023 19:09:04 GMT</pubDate>
   </item>
     </channel>
   </rss>
